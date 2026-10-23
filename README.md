@@ -40,3 +40,8 @@ Cormorant Garamond and Manrope are embedded under SIL Open Font License 1.1. The
 GitHub Pages serves the root of the `main` branch. Update `index.html`, commit, and push to publish changes. Keep the canonical and Open Graph URL in sync if the repository name or domain changes.
 
 The website stores no visitor information. Choosing or redrawing a card runs entirely in the page and doesn't send a request. No booking or contact message is sent automatically.
+
+
+## Readability update — 23 October 2026
+
+The user requested larger, easier-to-read type, especially in the header, footer and contact information. Main copy now uses 15–16 px, the hero introduction 16–17 px, navigation and controls 14 px (16 px in the mobile menu), contact links 14–15 px, secondary/footer text 12–13 px, and the footer Instagram contact 14 px. The mobile menu appears at 760 px to leave room for the larger navigation. Card reflection copy and redraw controls use the larger readable scale. Display-heading and artwork proportions are preserved.
