@@ -80,8 +80,12 @@
       .practice-strip{font-size:12px;letter-spacing:.035em;column-gap:10px}
       .about-copy>p,.services-top>p{font-size:16px}.about-name .role{font-size:12px;max-width:240px}
       .about-tags span{font-size:12px}.about-tags{gap:8px}
-      .service p{font-size:14px;line-height:1.8;min-height:0;margin-bottom:20px}
-      .service-link{font-size:13px;min-height:58px;margin-top:auto;line-height:1.65}
+      .services-grid{grid-template-columns:1fr;gap:16px;border:0}
+      .services-grid .service:nth-child(n){padding:26px!important;border:1px solid var(--line);border-radius:8px;background:var(--paper)}
+      .services-grid .service:nth-child(n) .service-number{top:26px;right:26px!important}
+      .services-grid .service h3{font-size:32px;min-height:0}
+      .service p{font-size:16px;line-height:1.8;min-height:0;margin-bottom:20px}
+      .service-link{font-size:14px;min-height:51px;margin-top:auto;line-height:1.65}
       .service-link .arrow{flex-shrink:0}
       .draw-copy>p,.reading p,.journey-step p,.course-panel p,.faq-intro p,details>p{font-size:15px}
       .draw-mini,.deck-caption,.reading-kicker{font-size:11px;letter-spacing:.09em}

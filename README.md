@@ -45,3 +45,8 @@ The website stores no visitor information. Choosing or redrawing a card runs ent
 ## Readability update — 23 October 2026
 
 The user requested larger, easier-to-read type, especially in the header, footer and contact information. Main copy now uses 15–16 px, the hero introduction 16–17 px, navigation and controls 14 px (16 px in the mobile menu), contact links 14–15 px, secondary/footer text 12–13 px, and the footer Instagram contact 14 px. The mobile menu appears at 760 px to leave room for the larger navigation. Card reflection copy and redraw controls use the larger readable scale. Display-heading and artwork proportions are preserved.
+
+
+## Mobile services layout — 23 October 2026
+
+The user requested one service per row on phones. At viewport widths up to 650 px, the offerings use separate full-width ivory cards with a subtle border, 16 px gaps and consistent inner spacing. Service descriptions use 16 px type and links use 14 px. The tablet and desktop service grids retain their existing layout.
